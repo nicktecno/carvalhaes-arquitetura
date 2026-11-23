@@ -120,14 +120,6 @@ export const projetos: Projeto[] = [
       'Projeto de fachada e ambientação com identidade marcante, do conceito ao executivo.',
   },
   {
-    imagem: '/images/projeto-lamia.jpeg',
-    marca: 'Gelateria La Mia',
-    local: 'Moema · Campo Belo · Itaim',
-    tag: 'Projeto executivo',
-    descricao:
-      'Projeto executivo e implantação das lojas, com revisão para torná-lo replicável em novas unidades.',
-  },
-  {
     imagem: '/images/proj-capiglu.png',
     marca: 'CapiGLU Açaiteria',
     local: 'Mogi das Cruzes · SP',
